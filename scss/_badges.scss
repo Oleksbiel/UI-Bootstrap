@@ -1,0 +1,23 @@
+.badge-normal {
+	background: $brand-normal;
+}
+.badge-default {
+	background: #fff;
+	color: #000;
+	border: 1px solid $brand-normal;
+}
+.badge-primary {
+	background: $brand-primary;
+}
+.badge-info {
+	background: $brand-info;
+}
+.badge-success {
+	background: $brand-success;
+}
+.badge-warning {
+	background: $brand-warning;
+}
+.badge-danger {
+	background: $brand-danger;
+}

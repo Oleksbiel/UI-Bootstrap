@@ -1,0 +1,13 @@
+.label-normal {
+	@include label-variant($label-normal-bg);
+}
+.label-default{
+	color: #000;
+	border: 1px solid $brand-normal;
+}
+.label-md {
+	padding: $label-md;
+}
+.label-timeline {
+	font-size: 14px;
+}

@@ -1,0 +1,3 @@
+.btn-normal {
+  @include button-variant($btn-normal-color, $btn-normal-bg, $btn-normal-border);
+}
